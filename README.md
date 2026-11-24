@@ -1,4 +1,4 @@
-<h1 align="center">Bruno Taveira</h1>
+<p align="center"><img src="assets/header.png" alt="Bruno Taveira, desenvolvedor full stack. APIs em Java e Spring Boot, interfaces em React e apps em Flutter." width="100%"></p>
 
 <p align="center">
   <em>Desenvolvedor Full Stack · Campo Grande, MS · Aberto a oportunidades</em>
