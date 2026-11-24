@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/header.png" alt="Bruno Taveira, Software Engineer. Aberto a oportunidades em Campo Grande, MS, presencial ou remoto." width="100%"></p>
+<p align="center"><img src="assets/banner.png" alt="Bruno Taveira, Software Engineer. Aberto a oportunidades em Campo Grande, MS, presencial ou remoto." width="100%"></p>
 
 <p align="center">
   <em>Software Engineer · Campo Grande, MS · Aberto a oportunidades</em>
