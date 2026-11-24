@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bruno-taveira/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:brunotaveiradasilva@gmail.com"><img src="https://img.shields.io/badge/brunotaveiradasilva@gmail.com-1B2632?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:brunotaveiradasilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-1B2632?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://brunotaveiradasilva.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
