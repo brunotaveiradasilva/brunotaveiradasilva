@@ -25,6 +25,12 @@
   - **SulBiologic**: análise de dados e o sistema interno que substituiu as planilhas de metas e campanhas (2025–atual).
 - 🌎 Aberto a vagas de desenvolvimento, presencial em Campo Grande ou remoto.
 
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,rails,react,nextjs,vue,ts,js,html,css,flutter,dart,mysql,git,github&perline=15" alt="Java, Spring Boot, Ruby on Rails, React, Next.js, Vue.js, TypeScript, JavaScript, HTML, CSS, Flutter, Dart, MySQL, Git e GitHub"/>
+</p>
+
 ### 🛠️ Projetos
 
 - [**sulbiologic-hub**](https://github.com/brunotaveiradasilva/sulbiologic-hub): hub interno de uma distribuidora, em uso diário: metas de venda, campanhas de fornecedores, comparativo de vendas e almoxarifado. React + TypeScript + Spring Boot. [▶ demo](https://brunotaveiradasilva.github.io/sulbiologic-hub/demo/)
