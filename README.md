@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/header.png" alt="Bruno Taveira, Software Engineer. APIs em Java e Spring Boot, interfaces em React e apps em Flutter." width="100%"></p>
 
 <p align="center">
-  <em>Desenvolvedor Full Stack · Campo Grande, MS · Aberto a oportunidades</em>
+  <em>Software Engineer · Campo Grande, MS · Aberto a oportunidades</em>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ### 🧠 Sobre mim
 
-- 💻 Desenvolvedor full stack: back-end com Java/Spring Boot e Ruby on Rails, front-end com React e mobile com Flutter.
+- 💻 Software Engineer: back-end com Java/Spring Boot e Ruby on Rails, front-end com React e mobile com Flutter.
 - 🏢 Experiência em:
   - **Jera**: back-end em Rails e apps em Flutter, em squads de produto de ponta a ponta (2023–2025).
   - **SulBiologic**: análise de dados e o sistema interno que substituiu as planilhas de metas e campanhas (2025–atual).
